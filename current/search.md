@@ -7,7 +7,7 @@
   - [The "American Way": Family and Community in the Shaping of America: Carlson, Allan C.: 9781952410949: Amazon.com: Books](https://www.amazon.com/American-Way-Community-Shaping-America/dp/1952410940/131-2293962-8816735)
   - [Third Ways: How Bulgarian Greens, Swedish Housewives, and Beer-Swilling Englishmen Created Family-Centered Economies-and Why They Disappeared: Carlson, Allan C.: 9781952410932: Amazon.com: Books](https://www.amazon.com/Third-Ways-Beer-Swilling-Family-Centered-Economies/dp/1952410932)
   - [Origins of Southern Radicalism: The South Carolina Upcountry, 1800-1860: Ford Jr., Lacy K.: 9780195044225: Amazon.com: Books](https://www.amazon.com/Origins-Southern-Radicalism-Upcountry-1800-1860/dp/0195044223)
-- [The Servile State: Belloc: 9781948231053: Amazon.com: Books](https://www.amazon.com/Servile-State-Belloc/dp/1948231050)
+
 
 ## Movies
 - [Allied (2016) - IMDb](https://www.imdb.com/title/tt3640424/)
