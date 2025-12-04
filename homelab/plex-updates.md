@@ -3,20 +3,27 @@
 
 
 ##
+	Documentaries
+		A Precarious State (2025)
+
 	Movies
 		A Minecraft Movie (2025)
 		A Working Man (2025)
 		Burn After Readin (2008)
+		Downton Abbey- The Grand Finale (2025)
 		Flag of Our Fathers (2006)
 		Hail, Caesar! (2016)
 		KPop Demon Hunter (2025)
 		Legends of the Fall (1994)
+		Pretty in Pink (1986)
 		Raising Arizona (1987)
 		Reagan (2024)
 		Road House (2024)
 		Rudy (1993)
+		The Accountant 2 (2025)
 		The Good Lord Bird (2020) - Season 01
 		The Guns of Navarone (1961)
+		The Last Boy Scout (1991)
 		The Naked Gun: From the Files of Police Squad! (1988)
 		The Naked Gun 2 1/2: The Smell of Fear (1991)
 		The Place Beyond the Pines (2013)
@@ -26,20 +33,26 @@
 		The Take (2016)
 		The Three Musketeers (1993)
 		The Tigger Movie (2000)
+		Under Siege (1992)
 		WarGames (1983)
 		Wicked (2024)
 
 	Podcasts
 		Shawn Ryan Show #224 - Dan Schneider - U.S. Army Attack Helicopter Pilot Turned Exorcist Assistant (08-04-25)
 		Shawn Ryan Show #227 - Henry Dick Thompson - MACV-SOG Operator, Codename 'Dynamite' (08-14-25)
+		Shawn Ryan Show #233 - Nathan Apffel - Inside the Dark World of Megachurches and Corrupt Pastors ( 09-04-25)
+		Shawn Ryan Show #255 - Ryan Montgomery - Roblox & Minecraft- Hacker Exposes the Largest Online Vido Games (11-20-25)
+		Shawn Ryan Show #256 - Tucker Carlson– Responding to the Biggest Conspiracies in the World Right Now (11-24-25)
 		Sage Steele Show #71 - Brett Favre- What the Netflix Doc Got Wrong (09-03-25)
 		Theo Von #607 - Young Amish Male (09-03-25)
+		Theo Von #625 - Matthew McConaughey (11-19-25)
 		Tucker Carlson (2025-07-22) - Charlie Kirk： How Debt Has Radicalized Young America and Why Boomers Deserve the Blame
 
 	TV Shows
 		Clarkson's Farm (2021) - Season 04
 		Ludwig (2024) - Season 01
 		Reacher (2022) - Season 03
+		Slow Horses (2022) - Season 05
 		The Day of the Jackal (2024) - Season 01
 		The Secret of Skinwalker Ranch (2020) - Season 00 & 06
 		TURN: Washington's Spies (2014) - Season 01
