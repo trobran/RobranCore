@@ -1,5 +1,12 @@
 # Links
 
+## 20251208
+- [British Army Knife – Quaker Marine Supply Co.](https://quakermarine.com/products/british-army-knife)
+- [Not your average Swiss knife: meet the British Army Knife! - YouTube](https://www.youtube.com/watch?v=OlLRddv0sFM)
+- [Steve Skojec on X: "Most of us who have ever had a personal relationship with a Catholic priest know that they're weighed down with administrative burdens and meetings and councils and endless minutiae most of them never thought would be the main part of the job when they were in seminary. But when https://t.co/OinkCOOD6E" / X](https://x.com/SteveSkojec/status/1989043986728644930)
+- [Kennedy Hall on X: ""The reason the Church’s leaders persecute the most faithful Catholics is that, broadly speaking, the leadership of the Catholic Church on earth at this time is dominated by a network of active homosexuals and theological modernists." @DrKwasniewski goes hard in this one." / X](https://x.com/kennedyhall/status/1991516941270290823)
+- [Karl's Mortgage Calculator](https://www.drcalculator.com/mortgage/)
+
 ## 20251125
 - [The 5 VLANs Every Home Network Should Have! - YouTube](https://www.youtube.com/watch?v=JFvzBBUxRYM)
 - [A Beginner's Guide to Docker Compose](https://dzone.com/articles/beginners-guide-to-docker-compose)
