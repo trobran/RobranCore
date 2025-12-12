@@ -1,6 +1,20 @@
 # Homelab
 
 
+# Documentation
+- [How do you document your homelab? : r/homelab](https://www.reddit.com/r/homelab/comments/1phn0yo/how_do_you_document_your_homelab/)
+
+
+## Jellyfin
+- [jellyfin external access - Brave Search](https://search.brave.com/search?q=jellyfin+external+access&source=web&summary=1&conversation=391c24220883c5779af32f)
+- [Does Jellyfin have Remote Access?](https://forum.jellyfin.org/t-does-jellyfin-have-remote-access)
+- [How to Access Jellyfin Remotely in 2025 - WunderTech](https://www.wundertech.net/how-to-access-jellyfin-remotely/)
+- [Accessing Emby Media Server via Tailscale VPN from Roku Smart TV - Networking & Firewalls - Lawrence Systems Forums](https://forums.lawrencesystems.com/t/accessing-emby-media-server-via-tailscale-vpn-from-roku-smart-tv/22956)
+- [Routing a Roku Streaming Stick via Tailscale Exit Node | Matt Knight](https://www.mattknight.io/blog/routing-roku-tailscale-exit-node)
+- [Can I install TailScale on my Roku? Plex Server use case : r/Tailscale](https://www.reddit.com/r/Tailscale/comments/trt96d/can_i_install_tailscale_on_my_roku_plex_server/)
+- [Tailscale Funnel · Tailscale Docs](https://tailscale.com/kb/1223/funnel)
+- [How to Access Jellyfin Remotely in 2025 - WunderTech](https://www.wundertech.net/how-to-access-jellyfin-remotely/)
+
 ## Network
 - [Homelab Network 2025: The [Ultimate Guide] for a lab network](https://edywerder.ch/homelab-network/)
 

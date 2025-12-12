@@ -1,5 +1,17 @@
 # Tech: Links
 
+## 20251211
+- [7 Windows 11 features I should’ve used from day one](https://www.makeuseof.com/windows-11-features-i-shouldve-used-day-one/)
+- [I made Windows easier to read with an accessibility feature that’s shockingly good](https://www.makeuseof.com/make-windows-easier-to-read-with-cleartype-text-tuner/)
+  
+## 20251208
+- [This is the Windows 11 launcher everyone should try but nobody talks about](https://www.makeuseof.com/windows-11-launcher-everyone-should-try-but-nobody-talks-about/)
+- [This free screenshot tool replaced Snipping Tool, ShareX, and everything else for me](https://www.makeuseof.com/screenshot-tool-replaced-snipping-tool-sharex-and-everything-else/)
+- [3 easy ways to encrypt files instantly on Windows (no accounts needed)](https://www.makeuseof.com/ways-to-encrypt-files-instantly-on-windows-no-accounts-needed/)
+- [PeaZip 10.8 File Archiver Boosts RAR and TAR Support](https://linuxiac.com/peazip-10-8-file-archiver-released-with-enhanced-archive-previews/)
+- [This free uninstaller removes apps even Windows can't](https://www.makeuseof.com/free-uninstaller-removes-apps-even-windows-cant/)
+- [Mani Kandan on X: "Try This Excel Hack ✅ https://t.co/7J7i9jsBvV" / X](https://x.com/Mani_Kandan10X/status/1996153578705309937)
+
 ## 20250924
 - [Backup data offsite? : r/unRAID](https://www.reddit.com/r/unRAID/comments/1lzlpyt/backup_data_offsite/)
 - [I finally found a free, lightweight open-source PDF reader that does everything I want](https://www.makeuseof.com/best-free-lightweight-pdf-reader-sumatra/)

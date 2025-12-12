@@ -51,10 +51,11 @@
 		Clarkson's Farm (2021) - Season 04
 		Ludwig (2024) - Season 01
 		Reacher (2022) - Season 03
+		Shetland (2013) - Season 09 & 10
 		Slow Horses (2022) - Season 05
 		The Day of the Jackal (2024) - Season 01
 		The Secret of Skinwalker Ranch (2020) - Season 00 & 06
-		TURN: Washington's Spies (2014) - Season 01
+		TURN: Washington's Spies (2014) - Season 01, 02, 03, & 04
 
 
 
