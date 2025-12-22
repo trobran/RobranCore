@@ -14,6 +14,8 @@
 		Hail, Caesar! (2016)
 		KPop Demon Hunter (2025)
 		Legends of the Fall (1994)
+		Mission Impossible: The Final Reckoning (2025)
+		Nobody 2 (2025)
 		Pretty in Pink (1986)
 		Raising Arizona (1987)
 		Reagan (2024)
@@ -54,6 +56,8 @@
 		Shetland (2013) - Season 09 & 10
 		Slow Horses (2022) - Season 05
 		The Day of the Jackal (2024) - Season 01
+		The Good Lord Bird (2020) - Season 01
+		The Reluctant Traveler with Eugene Levy (2023) - Season 01, 02, & 03
 		The Secret of Skinwalker Ranch (2020) - Season 00 & 06
 		TURN: Washington's Spies (2014) - Season 01, 02, 03, & 04
 
