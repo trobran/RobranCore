@@ -1,5 +1,16 @@
 # Tech: Links
 
+## 20251222
+- [I replaced the Windows volume mixer with this app and it's so much better](https://www.makeuseof.com/replaced-windows-volume-mixer-with-much-better-app/)
+- [I ran a full security audit on my Windows PC and found issues I never expected](https://www.makeuseof.com/ran-full-security-audit-on-windows-pc-and-found-issues-never-expected/)
+  - [Autoruns - Sysinternals | Microsoft Learn](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
+    ``` cmd
+    \\live.sysinternals.com\tools\autoruns.exe
+    ```
+- [Introducing RackRat, a LabGopher alternative for eBay server deals : r/homelab](https://www.reddit.com/r/homelab/comments/1pscka4/introducing_rackrat_a_labgopher_alternative_for/)
+  - [LabGopher :: Great server deals on eBay](https://www.labgopher.com/)
+  - [RackRat - eBay Rackmount Server Deal Finder](https://rackrat.net/)
+
 ## 20251211
 - [7 Windows 11 features I should’ve used from day one](https://www.makeuseof.com/windows-11-features-i-shouldve-used-day-one/)
 - [I made Windows easier to read with an accessibility feature that’s shockingly good](https://www.makeuseof.com/make-windows-easier-to-read-with-cleartype-text-tuner/)
