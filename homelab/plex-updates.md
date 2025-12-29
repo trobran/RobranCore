@@ -50,6 +50,7 @@
 		Tucker Carlson (2025-07-22) - Charlie Kirk： How Debt Has Radicalized Young America and Why Boomers Deserve the Blame
 
 	TV Shows
+		All Creatures Great and Small (2020) - Season 06
 		Clarkson's Farm (2021) - Season 04
 		Ludwig (2024) - Season 01
 		Reacher (2022) - Season 03
