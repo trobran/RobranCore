@@ -1,5 +1,13 @@
 # Tech: Links
 
+## 20251230
+- [This is the best package manager for Windows you’re not using](https://www.makeuseof.com/best-package-manager-for-windows/)
+- [I replaced Chrome’s new tab page with this dashboard and I’m never going back](https://www.makeuseof.com/replace-chrome-new-tab-page-with-dashy/)
+- [I tried these 6 open-source apps out of curiosity, and now I won't uninstall them](https://www.makeuseof.com/tried-these-open-source-apps-out-of-curiosity-and-wont-uninstall-them/)
+- [Rackarr: free, open source rack visualizer. Drag stuff in, export it, done : r/homelab](https://www.reddit.com/r/homelab/comments/1pves03/rackarr_free_open_source_rack_visualizer_drag/)
+- [I kicked my smart bulbs off my main Wi-Fi and you should too](https://www.makeuseof.com/smart-light-bulbs-wi-fi-extender/)
+- [Keep It Simple: The Power of the KISS Principle in Modern Design](https://www.c-sharpcorner.com/blogs/keep-it-simple-the-power-of-the-kiss-principle-in-modern-design)
+
 ## 20251222
 - [I replaced the Windows volume mixer with this app and it's so much better](https://www.makeuseof.com/replaced-windows-volume-mixer-with-much-better-app/)
 - [I ran a full security audit on my Windows PC and found issues I never expected](https://www.makeuseof.com/ran-full-security-audit-on-windows-pc-and-found-issues-never-expected/)

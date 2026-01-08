@@ -12,6 +12,7 @@
 - [Spaceinvader One - YouTube](https://www.youtube.com/@SpaceinvaderOne)
 - [IBRACORP - YouTube](https://www.youtube.com/@IBRACORP)
 - [AlienTech42 - YouTube](https://www.youtube.com/@AlienTech42)
+- [How to Setup Caddy Reverse Proxy on Unraid with DuckDNS (Beginner Friendly) - YouTube](https://www.youtube.com/watch?v=636_WVGUfIU)
 
 
 ## ZFS
